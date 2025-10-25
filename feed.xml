@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>刘博的谈心电台</title>
+    <link>https://github.com/NoaHLLEEE/my-podcast</link>
+    <description>一个关于生活、思考与心事的独立播客</description>
+    <language>zh-cn</language>
+    <itunes:author>刘博</itunes:author>
+    <itunes:image href="https://github.com/NoaHLLEEE/my-podcast/cover.png"/>
+    <itunes:category text="Society & Culture"/>
+
+    <item>
+      <title>第1期：从焦虑到自洽</title>
+      <description>今天聊聊自洽和成长。</description>
+      <enclosure url="https://github.com/NoaHLLEEE/my-podcast/episodes/ep1.mp3"
+                 length="18856622"
+                 type="audio/mpeg"/>
+      <guid>ep1</guid>
+      <pubDate>Sun, 26 Oct 2025 12:00:00 +0800</pubDate>
+    </item>
+
+  </channel>
+</rss>
