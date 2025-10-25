@@ -8,7 +8,7 @@
     <language>zh-cn</language>
     <itunes:author>刘博</itunes:author>
     <itunes:image href="https://github.com/NoaHLLEEE/my-podcast/cover.png"/>
-    <itunes:category text="Society & Culture"/>
+    <itunes:category text="SocietyCulture"/>
 
     <item>
       <title>第1期：从焦虑到自洽</title>
@@ -22,3 +22,4 @@
 
   </channel>
 </rss>
+
