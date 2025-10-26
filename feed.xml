@@ -9,7 +9,7 @@
     <itunes:author>刘博</itunes:author>
     <itunes:image href="https://NoaHLLEEE.github.io/my-podcast/cover.png"/>
     <itunes:category text="SocietyCulture"/>
-
+    <itunes:explicit>yes</itunes:explicit>
     <item>
       <title>第1期：从焦虑到自洽</title>
       <description>今天聊聊自洽和成长。</description>
@@ -22,3 +22,4 @@
 
   </channel>
 </rss>
+
